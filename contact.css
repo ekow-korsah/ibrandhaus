@@ -1,0 +1,296 @@
+.section-1 .nav-item{
+    margin-left: 100px
+}
+
+.section-1{
+    background: black
+}
+
+.section-3{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.section-3 .cont-1{
+    text-align: center;
+}
+
+.section-3 .cont-2{
+    text-align: center;
+}
+
+.sweet .row > a{
+    color: black;
+   margin-left: 25%;
+    /* padding-left: 650px; */
+    padding-top: 60px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.sweet .column i + i{
+    padding: 0 1.0em;
+}
+
+
+
+
+.section-4{
+    padding-left: 170px;
+}
+
+.section-4 .name .input-group{
+    margin-left: -15px;
+    width:1080px;
+}
+
+
+.section-5{
+    padding-top: 50px;
+    padding-left: 170px;
+}
+
+.section-5 .name .input-group{
+    margin-left: -15px;
+    width:1080px;
+}
+
+.section-6{
+    padding-top: 50px;
+    padding-left: 170px;
+}
+
+.section-6 .name .input-group{
+    margin-left: -15px;
+    width:1080px;
+}
+
+.section-7{
+    padding-top: 50px;
+    padding-left: 170px;
+}
+
+.section-7 .name .input-group{
+    margin-left: -15px;
+    width:1080px;
+}
+
+.section-7 input{
+    height: 150px;
+}
+
+.btns{
+    border-width: 3px;
+    size: 100px;
+    border-color: black;
+    text-align: center;
+    background-color: white;
+    width: 120px;
+    height: 40px;
+} 
+
+.section-8{
+    padding-top: 20px;
+    padding-left: 250px;
+}
+
+.section-9 .creative{
+    padding-top: 30px;
+    text-decoration: solid;
+    padding-left: 250px;
+    padding-bottom: 10px;
+}
+.section-9{
+    /* margin-left: 450px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section-9 >h2{
+    padding-left: 250px;
+}
+
+.section-9 .info{
+    padding-left: 250px;
+}
+
+.section-10 .creative{
+    padding-top: 30px;
+    text-decoration: solid;
+    padding-left: 250px;
+    padding-bottom: 10px;
+}
+
+.section-10 .info{
+    padding-left: 250px;
+    padding-bottom: 30px;
+    margin-right:150px;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(49, 48, 48);
+    overflow-x: hidden;
+    padding: 14vmin 18vmin;
+  }
+  
+  footer p > span {
+    color: #f1bc47;
+  }
+  
+  footer input {
+    border: none !important;
+  }
+  
+  footer input::placeholder {
+    color: white !important;
+  }
+  
+  footer .input-group .input-group-text {
+    background-color: #f1bc47;
+    border: none;
+  }
+  
+  footer .column i {
+    color: #f1bc47;
+  }
+  
+  footer .column i + i {
+    padding: 0 0.9em;
+  }
+  
+  .footer .whew {
+    padding-left: 5px;
+  }
+
+@media only screen and (max-width:812px){
+
+     .sweet .row > i{
+        color: black;
+        padding-top: 60px;
+        padding-bottom: 10px;
+        font-size: 15px;   
+        margin-right: -10px;
+        padding-left: 100px;
+    }
+
+    .sweet .column i + i{
+        padding: 0 1.0em;
+    }
+
+    .section-3{
+        margin-left: -110px;
+    }
+    .section-4{
+        margin-left: -160px;
+    }
+
+    .section-4 .name .input-group{
+        width: 360px !important;
+    }
+    .section-5{
+        margin-left: -160px;
+    }
+
+    .section-5 .name .input-group{
+        width: 360px !important;
+    }
+    .section-6{
+        margin-left: -160px;
+    }
+
+    .section-6 .name .input-group{
+        width: 360px !important;
+    }
+    .section-7{
+        margin-left: -160px;
+    }
+
+    .section-7 .name .input-group{
+        width: 360px !important;
+    }
+    .section-8{
+        margin-left: -220px;
+    }
+
+    .section-9{
+        margin-left: -220px;
+    }
+
+    
+    
+    
+    
+    
+    
+
+}
+
+@media screen and (max-width: 1366px) and (min-width: 912px){
+
+    .sweet .column i{
+        margin-top: -40px;
+        color: black;
+        padding-left: 350px;
+        padding-top: 100px;
+        padding-bottom: 70px;
+        font-size: 22px;
+    }
+    .sweet .column i + i{
+        padding: 0 1.5em;
+    }
+
+
+    /* .input-group{
+        width: 900px;
+    } */
+
+    .g{
+        margin-left: -80px;
+    }
+
+    .first{
+        margin-left: -80px;
+        padding-bottom: 30px;
+    }
+    .section-3{
+        margin-top: -50px;
+        margin-left: -200px;
+        text-align: center;
+    }
+
+    .section-4 .name .input-group{
+        width: 1000px;
+    }
+
+    .section-5 .name .input-group{
+        width: 1000px;
+    }
+    .section-6 .name .input-group{
+        width: 1000px;
+    }
+    .section-7 .name .input-group{
+        width: 1000px;
+    }
+
+    .section-8{
+        margin-left: -150px;
+    }
+
+    .section-9{
+        margin-left: -150px;
+    }
+
+    .section-10{
+        margin-left: -150px;
+        padding-right: -900px;
+    }
+
+    .section-10 .info{
+        margin-right: -40px;
+    }
+
+
+
+}
